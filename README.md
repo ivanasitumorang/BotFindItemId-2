@@ -1,4 +1,4 @@
-# BotFindItemId-2
+# GTFindItemId
 
 Change all values in file .env & src/commands/tools (tag with #azuka)
 ### How to run :
